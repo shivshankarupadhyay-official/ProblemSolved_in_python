@@ -1,4 +1,3 @@
-try:
-    x = 10 / 0  # This will raise a ZeroDivisionError
-except ZeroDivisionError:
-    print("Cannot divide by zero!")
+a = (2,3,4,4,5,55)
+
+print(a)
